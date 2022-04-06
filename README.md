@@ -60,11 +60,28 @@ The purpose of the analysis was to help Bobby's manager prepare for the "silver 
 ## Summary
 
 <ol>
-  <li>How many roles will need to be filled as the "silver tsunami" begins to make an impact?</li>
-    The total number of roles that will need to be filled is 72,458.
-   
-  <li>Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?</li>
-    
+  <li><b>How many roles will need to be filled as the "silver tsunami" begins to make an impact?</b>
+    <br>
+    Utilizing the aggregate function SUM in a SELECT statement, we can get the total number of roles that will need to be filled when all of the identified employees retire.  The total number of roles that will need to be filled is 72,458.</li>
+  
+  <br>
+  
+  ![Sum_count query](https://user-images.githubusercontent.com/94088129/162023602-2ecc608e-066d-4044-9cd2-a2c50efeb57c.png)
+<img width="130" alt="Sum_count image" src="https://user-images.githubusercontent.com/94088129/162023620-fd655780-b5ff-4bdd-9314-00b8769e0e46.png">
+
+ 
+  <li><b>Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?</b>
+    <br>
+    Utilizing the COUNT function in a SELECT statement, we can get the total number of employees qualified to mentor the next generation of Pewlett Hackard Employees.  Unfortunately, that total is 1,549, meaning there are not enough mentors for the next generation.</li>
+  
+  <br>
+  
+  ![Mentor_count query](https://user-images.githubusercontent.com/94088129/162025326-fcef77ee-7a8c-4048-8f41-f01c7cd53ac2.png)
+  <img width="142" alt="Mentor_count image" src="https://user-images.githubusercontent.com/94088129/162025399-6b469623-1a9b-493e-99f7-e9ec635262a5.png">
+
+  
+  
+  
 
 
 
