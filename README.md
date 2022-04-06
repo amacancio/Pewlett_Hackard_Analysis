@@ -58,3 +58,27 @@ The purpose of the analysis was to help Bobby's manager prepare for the "silver 
 </ul>
   
 ## Summary
+
+<ol>
+  <li>How many roles will need to be filled as the "silver tsunami" begins to make an impact?</li>
+    The total number of roles that will need to be filled is 72,458.
+   
+  <li>Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?</li>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
